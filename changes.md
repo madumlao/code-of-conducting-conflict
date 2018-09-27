@@ -87,7 +87,7 @@ The contributor covenant describes separate (and immediate) sanctions for other 
 
 This code explicitly says that project maintainers will be subject to the same due process procedures afforded to everyone else.
 
-## Delete "or enforce" from penalty
+# Delete "or enforce" from penalty
 The original wording of the contributor covenant enforcement section uses:
 
 "Project maintainers who do not follow or enforce this Code in good faith may face temporary or permanent repurcussions..."
