@@ -45,7 +45,7 @@ This Code of Conducting Conflict puts in place additional provisions that preven
 
 Finally, the Code of Conducting Conflict makes a statement of purpose for the project community, which serves as a guide for applying the rules and standards. The rules and standards that cover interpersonal relations are _unavoidably_ going to be vague, and will always end up being treated on a case-by-case basis. By explicitly stating the purpose of our community, we give project maintainers some guiding principles upon which to fall back on in deciding what to do with each case.
 
-For a full discussion of the differences from the Contributor Covenant to the Code of Conducting Software, see the file `notable-changes.md`.
+For a full discussion of the differences from the Contributor Covenant to the Code of Conducting Software, see the file [changes.md](changes.md).
 
 
 ## The rights section reads too much like the law. Why don't we just let the law decide?
