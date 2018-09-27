@@ -21,7 +21,7 @@ A group's norms derives from its purpose, not the other way around. While the no
 
 By "greatest potential", we mean to advance the project to most completely and effectively accomplish its purposes. For software, this usually means that the program is one of, if not the, best-in-class at doing what it was designed to do.
 
-By "highest quality work", we mean that contributions to the project are technically judged to be in the best state that can be done. For software, this usually means that we strive to eliminate mistakes, bugs, typos, inconsistenies, errors, crashes, and the like.
+By "highest quality work", we mean that contributions to the project are technically judged to be in the best state that can be done. For software, this usually means that we strive to eliminate mistakes, bugs, typos, inconsistencies, errors, crashes, and the like.
 
 By "healthy community", we mean that we want have a community that encourages and welcomes all people to participate without discrimination while also fostering open, friendly discussion needed to advance the project. This is embodied by the immortal words of Bill and Ted to "Be excellent to each other".
 
