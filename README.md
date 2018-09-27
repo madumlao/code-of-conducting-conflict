@@ -13,4 +13,4 @@ Read [the full code](code.md).
 
 For differences between this Code and either the "Code of Conflict" or "Contributor Covenant", read the [changes rationale](changes.md)
 
-For questions, read the [Frequently Asked Questions]](faq.md)
+For questions, read the [Frequently Asked Questions](faq.md)
