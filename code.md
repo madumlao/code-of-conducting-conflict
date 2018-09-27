@@ -110,7 +110,7 @@ Project maintainers who do not follow this Code in good faith may face temporary
 Attribution
 -----------
 
-This Code of Conducting Conflict adapted from the Code of Conducting Conflict available at https://github.com/madumlao/code-of-conducting-conflict/code.md
+This Code of Conducting Conflict adapted from the Code of Conducting Conflict available at https://github.com/madumlao/code-of-conducting-conflict/blob/master/code.md
 
 This Code of Conduct is adapted in part from:
 1) the Linux kernel, version 4.18, "Code of Conflict", available at https://www.kernel.org/doc/html/v4.18/process/code-of-conflict.html
