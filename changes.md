@@ -3,7 +3,7 @@ This is a list of notable changes / adaptations made in the "Code of Conflicting
 # A statement of telos
 As per Eric Raymond's discussion (http://esr.ibiblio.org/?p=8139), a community's telos (purpose) serves as a guiding principle behind that community's ethos (norms and rules). However, the telos is often left unstated, whereas the ethos is only clarified in part as the community grows. This is problematic, because it allows unscrupulous communities to subvert a project's goals by misusing its rules.
 
-It is not uncommon to expect bugs in code. Often, bugs are resolved by understanding the purpose of the code and better rewriting the code to reflect its purpose. And yet, we act like there are no bugs in our code... of conduct! But why not? We should be _expecting_ bugs in our codes of conduct, but without a statement of the community's telos, we have no reference point with which to adjust its ethos.
+It is not uncommon to expect bugs in code. Often, bugs are resolved by understanding the purpose of the code and better rewriting the code to reflect its purpose. And yet, we act like there are no bugs in our codes of conduct! But why not? We should be _expecting_ bugs in our codes of conduct, but without a statement of the community's telos, we have no reference point with which to adjust its ethos.
 
 This code explicitly describes its telos in plain language and goes into detail about its implications. This telos should then be used as the guiding principles behind any rules subsequently implemented by the community.
 
