@@ -53,7 +53,7 @@ A creative community is NOT a government; it does not have authority over a pers
 
 Why then, guarantee rights that are protected by the law?
 
-A creative community extends their reach BEYOND the government and into private interactions within that community. If the community adopts authoritarian practices within either a private space or its public interactions, such processes are not normally within the reach of the law. Thus any freedoms granted by the law in legal processes may not be guaranteed by community's in their community processes.
+A creative community extends their reach BEYOND the government and into private interactions within that community. If the community adopts authoritarian practices within either a private space or its public interactions, such processes are not normally within the reach of the law. Thus any freedoms granted by the law in legal processes may not be guaranteed by communities in their community processes.
 
 While we may not agree with every provision of every law, most people implicitly understand that the rights embodied by the law are important. If we willfully adopt authoritarian and oppressive practices in private, and allow such practices to pervade every community we belong to, then it matters little that the government itself is not authoritarian - we will still be held under authoritarian and oppressive rule. Thus we must at bare minimum endeavor to protect as many of the same human rights that the law embodies as our own communities get involved in.
 
