@@ -11,10 +11,6 @@ Specifically, the provided telos explicitly states as a purpose of the project B
 
 Finally, the provided telos also specifically targets dogmatic politics by calling for "insightful and introspective approaches to dealing with problems". This means that all parts of the project should be open to self-`re`view (introspection) and improvement as appropriate to the situation (insight).
 
-# Adding Linux code of conflict
-By arguably a huge margin, the Linux kernel is one of - if not THE - most important large-scale openly collaborative technical efforts in human history, FULL STOP. The meteoric rise of its development population and code size was influential in starting the Open Source movement which rapidly accelerated the growth and adoption of Free and Open Source software that dominated almost every field that software was deployed to: from the Internet infrastructure, to the strongest supercomputers, consumer electronics, and user phones. There are more companies that have contributed to the Linux kernel than most software companies have developers.
-
-It would be foolish to ignore lessons learned from one of the largest, most diverse, most successful, and most productive projects in human history in the interest of getting achieving a large, diverse, and successful community.
 
 # Emphasis on humanity before rules
 The informal spirit of Linus' code of conflict is intentionally maintained, and expanded upon by several sections emphasizing treating others as human first.
