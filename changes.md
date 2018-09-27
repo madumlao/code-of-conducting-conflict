@@ -21,7 +21,7 @@ There are several reasons for this:
 
 
 # Removal of protected classes
-In the contributor covenant, the harassment standard recites a list of protected classes who should be free from harassment.
+In the Contributor Covenant, the harassment standard recites a list of protected classes who should be free from harassment.
 
 This has been viewed as problematic by some, because
 
@@ -39,7 +39,7 @@ In both the "Our Responsibility" and "Enforcement" sections, project maintainers
 Emphasis on de-escalation is made explicit to maintain the personal / human element of the community. Community policing fundamentally introduces some measure of chilling effect on the community, which can be especially disastrous to innovation. The less we rely on community policing, the better for innovation. By putting person-to-person resolutions and de-escalation tactics first, and only deploying policing efforts when such have failed, we encourage the community to have stronger interpersonal relations while still retaining policing power for infractions of the code.
 
 # Encourage ownership of contributions
-In the original contributor covenant, in the "Our responsibility" section, project maintainers are suggested to make any and all changes towards any and all contributions to agree with the code of conduct. This suggests an unreasonable burden on project maintainers to "fix everyone's ___isms" which is not helped by the recital of different kinds of contributions.
+In the original Contributor Covenant, in the "Our responsibility" section, project maintainers are suggested to make any and all changes towards any and all contributions to agree with the code of conduct. This suggests an unreasonable burden on project maintainers to "fix everyone's ___isms" which is not helped by the recital of different kinds of contributions.
 
 This code specifically gives the suggestion for project maintainers to allow contributors to fix their "___isms" before their contributions are accepted. This is much closer to the spirit of Linux's development process where contributions are forced to be improved before they are accepted. If the contributor does not implement such fixes, the maintainer has the choice of amending the contribution themselves or rejecting it outright.
 
@@ -51,7 +51,7 @@ There is no mention of any form of process, nor any other kind of sanction that 
 This code replaces "ban temporarily or permanently" with "sanction", and explicitly requires that such sanctions be applied "after due process". This encourages project maintainers to not immediately jump to deletory actions on any offense, but rather, to carefully consider sanctions appropriate to the offense only after due process has been served.
 
 # Scope limitations
-The original contributor covenant gives clear examples of acceptable and non-acceptable behavior as a guideline for what is or is not covered by the code of conduct.
+The original Contributor Covenant gives clear examples of acceptable and non-acceptable behavior as a guideline for what is or is not covered by the code of conduct.
 
 However, the Scope section, which expands on what is or is not covered by the code of conduct, is not given the same treatment. The effect is that there is a vague list of activities that might count as offenses, but an even vaguer list of conditions of when such might count as an offense.
 
@@ -64,7 +64,7 @@ Specifically, two items have been added as part of the list of within-scope item
 In addition, several examples of activity that do NOT count as within scope have been highlighted to clarify limitations. People should be able to have lives independent of the projects they are involved in.
 
 # Rights for the accused
-The contributor covenant gives the accusers broad spectrum privileges to have their grievances heard and addressed, but says nothing for the rights of the accused. This is possibly an oversight under the presumption that most people will have a common sense approach to allowing the accused to answer complaints against them. However, in practice this has lead to some conflicts where the accused are presumed guilty, never allowed to face their accusers, and never allowed to answer their charges, at least until after damage has been done to their work and reputation. Leaving this unstated has damaged some projects.
+The Contributor Covenant gives the accusers broad spectrum privileges to have their grievances heard and addressed, but says nothing for the rights of the accused. This is possibly an oversight under the presumption that most people will have a common sense approach to allowing the accused to answer complaints against them. However, in practice this has lead to some conflicts where the accused are presumed guilty, never allowed to face their accusers, and never allowed to answer their charges, at least until after damage has been done to their work and reputation. Leaving this unstated has damaged some projects.
 
 This code makes it _explicit_ that the accused will be given certain rights and afforded due process. Specifically, they should be able to hear out their complaint in full, face their accusers, be given symmetrical privacy of complaints against them, answer their complaints, know the sanctions taken against them, and know the reasoning behind such sanctions.
 
@@ -83,12 +83,12 @@ The rights for the accused gives them the right to be informed of their sanction
 The rights for the accused gives them the right to be informed of the reasoning for their sanctions. This specifically targets arbitrary and preferential punishment, whereby team members can get rid of violators that they dislike while giving very light sanctions to the ones that they like. By being informed of the reasoning behind the sanctions - such as which rule and appropriate punishment - not only the accused, but the larger community as well, gains peace of mind that sanctions were enacted impartially and without favor.
 
 # Same standards for Project maintainers
-The contributor covenant describes separate (and immediate) sanctions for other project maintainers if they do not follow the code of conduct as opposed to other contributors. This may allow a closed-minded group of project maintainers to arbitrarily kick out anyone they disagree with from the project, creating a possibly unhealthy monoculture.
+The Contributor Covenant describes separate (and immediate) sanctions for other project maintainers if they do not follow the code of conduct as opposed to other contributors. This may allow a closed-minded group of project maintainers to arbitrarily kick out anyone they disagree with from the project, creating a possibly unhealthy monoculture.
 
 This code explicitly says that project maintainers will be subject to the same due process procedures afforded to everyone else.
 
 # Delete "or enforce" from penalty
-The original wording of the contributor covenant enforcement section uses:
+The original wording of the Contributor Covenant enforcement section uses:
 
 "Project maintainers who do not follow or enforce this Code in good faith may face temporary or permanent repurcussions..."
 
