@@ -25,7 +25,7 @@ By "highest quality work", we mean that contributions to the project are technic
 
 By "healthy community", we mean that we want have a community that encourages and welcomes all people to participate without discrimination while also fostering open, friendly discussion needed to advance the project. This is embodied by the immortal words of Bill and Ted to "Be excellent to each other".
 
-By "insightful and introspective approaches to dealing with problems", we mean that no set of norms, rules, procedures, leaders, or enforcers, etc can ever be perfect, and should never be treated as such. At every step of the way we must be free to question our ways and strive to do better, either by making appropriate exceptions to the rules, or by improving or replacing the rules, even if our way of doing things makes sense to us right now. In the immortal words of the Jewish Barber, we cannot be "machine men with machine minds and machine hearts".
+By "insightful and introspective approaches to dealing with problems", we mean that no set of norms, rules, procedures, leaders, or enforcers, etc can ever be perfect, and should never be treated as such. At every step of the way we must be free to question our ways and strive to do better, either by making appropriate exceptions to the rules, or by improving or replacing the rules, even if our way of doing things makes sense to us right now. In the words of Charlie Chaplin's "The Great Dictator", we cannot be "machine men with machine minds and machine hearts".
 
 By stating our shared purpose above, we hope to give guidance to interpretations of our or norms below. We will now discuss our norms.
 
