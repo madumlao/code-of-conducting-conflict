@@ -5,7 +5,7 @@ Clearly the Linux kernel has been massively successful. But in addition, the ker
 
 It would be wise to take SOME lessons from that community.
 
-The Linux Kernel community, and the Code of Conflict it used, may have had some problems in generating a welcoming, inclusive community. This code remedies of those issues by taking a strong stance towards promiting a welcoming, inclusive community WITHOUT compromising its strong points.
+The Linux Kernel community, and the Code of Conflict it used, may have had some problems in generating a welcoming, inclusive community. This code remedies those issues by taking a strong stance towards promiting a welcoming, inclusive community WITHOUT compromising its strong points.
 
 ## I don't like or want to use the Contributor Covenant. Why should I adopt a code based on it?
 The Contributor Covenant is a well-meaning document with good intentions, primarily, the goal of making a welcoming, inclusive community that is against harassment. It has been massively adopted by a large number of software communities that have wanted to make an active effort into welcoming more developers into their community.
