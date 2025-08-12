@@ -113,6 +113,6 @@ Attribution
 This Code of Conducting Conflict adapted from the Code of Conducting Conflict available at https://github.com/madumlao/code-of-conducting-conflict/blob/master/code.md
 
 This Code of Conduct is adapted in part from:
-1) the Linux kernel, version 4.18, "Code of Conflict", available at https://www.kernel.org/doc/html/v4.18/process/code-of-conflict.html
+1) the Linux kernel, version 4.10, "Code of Conflict", available at https://www.kernel.org/doc/html/v4.10/process/code-of-conflict.html
 
 2) the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
